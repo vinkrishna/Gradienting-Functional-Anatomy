@@ -5,7 +5,7 @@ The brain possesses distinct cytoarchitectonics. This amazing beauty of cytoarch
 
 This project aims to ask, what are the underline intrinsic functional organizations within distinct cytoarchitectonic components of the Human Brain.
 
-The functional anatomy analysis is being performed in a sample of 62 healthy subjects (genetically unrelated)in a high-resolution 7T HCP set using a sensitive and reliable Functional signal analysis approach (reference below).
+The functional anatomy analysis is being performed in a sample of 62 healthy subjects in a high-resolution 7T HCP set using a sensitive and reliable Functional signal analysis approach (reference below).
 
 The analysis in the flow: As the new brain area calculations finish, I will update, so bookmark and visit again and again!
 
