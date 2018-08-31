@@ -24,6 +24,9 @@ Vin: mail.vinod@yahoo.com
 
 Please Cite:
 
+https://github.com/vinkrishna/Gradienting-Functional-Anatomy/
+
+
 E.S.B. van Oort, M. Mennes, T. Navarro Schröder, V.J. Kumar, N.I. Zaragoza Jimenez, W. Grodd, C.F. Doeller, C.F. Beckmann Functional parcellation using time courses of instantaneous connectivity Neuroimage (2017) 
 Available at https://doi.org/10.1016/j.neuroimage.2017.07.027
 
