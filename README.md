@@ -11,11 +11,20 @@ The analysis in the flow: As the new brain area calculations finish, I will upda
 
 
 
+
+
+
 Please ask for permission (Manuscript is still under preparation!!):
 
 Vin: mail.vinod@yahoo.com
 
 (Under Supervision of Prof. Wolfgang Grodd and Prof. Christian Beckmann)
+
+
+
+
+
+
 
 
 
