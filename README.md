@@ -1,8 +1,6 @@
 # Gradienting-Functional-Anatomy
 High-resolution Functional Anatomy of the Human Brain at Rest
 
-High-resolution Functional Anatomy of the Human Brain at Rest
-
 The brain possesses distinct cytoarchitectonics. This amazing beauty of cytoarchitectonics has been observed and illustrated by drawing on the paper up-to-the high-precision histological mapping.
 
 This project aims to ask, what are the underline intrinsic functional organizations within distinct cytoarchitectonic components of the Human Brain.
